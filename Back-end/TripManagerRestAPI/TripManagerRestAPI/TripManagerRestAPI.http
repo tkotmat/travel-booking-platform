@@ -1,0 +1,6 @@
+@TripManagerRestAPI_HostAddress = http://localhost:5157
+
+GET {{TripManagerRestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
